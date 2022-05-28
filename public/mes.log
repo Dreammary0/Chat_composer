@@ -1,0 +1,5 @@
+[2022-05-28T15:46:46.454127+00:00] user.INFO: User name is  {"who":"admin"} []
+[2022-05-28T15:46:50.170614+00:00] action.INFO: New message {"user":"admin","send":"hi"} []
+[2022-05-28T15:47:01.665907+00:00] user.ERROR: no login or passzord! [] []
+[2022-05-28T15:47:13.917264+00:00] user.INFO: User name is  {"who":"admin"} []
+[2022-05-28T15:47:17.588424+00:00] action.INFO: New message {"user":"admin","send":"sos"} []
